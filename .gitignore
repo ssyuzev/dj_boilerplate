@@ -1,0 +1,90 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+._.DS_Store
+.DS_Store
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.pot
+
+# Certificates
+*.pem
+*.key
+
+# Sphinx documentation
+docs/_build/
+
+#Docker
+data/
+screenlog*
+
+# PyBuilder
+target/
+# VSCode
+.vscode
+#Pycharm
+.idea
+#Sublime text 3
+*.sublime-workspace
+
+#Django
+*.swp
+*.log
+.env
+.env.secret
+*~
+.~*
+media/
+static/
+postgres/
+db.sqlite3
+
+local_settings.py
+setup.py
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Node.js
+node_modules/
+/node_modules/
+node_modules
