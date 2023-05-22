@@ -17,7 +17,7 @@ django-mptt
 django-mailer
 django-rosetta
 django_select2
-requests==2.20.1
+requests==2.31.0
 django-mama-cas
 django-easy-pdf==0.2.0.dev1
 WeasyPrint
